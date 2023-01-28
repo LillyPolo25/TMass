@@ -1,2 +1,2 @@
 # TMass
-Ejemplo de página web para la tienda Mass (.rar)
+Ejemplo de página web para la tienda Mass (.zip)
